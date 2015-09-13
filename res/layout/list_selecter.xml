@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0e68c"
+    android:largeHeap="true"
+    xmlns:android-bootstrap="http://schemas.android.com/apk/res-auto" >
+
+    <ImageButton
+        android:id="@+id/selecter_key4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/keyhole1" />
+
+    <ImageButton
+        android:id="@+id/selecter_key1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/keyhole1" />
+
+    <ImageButton
+        android:id="@+id/selecter_key2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="48dp"
+        android:layout_marginLeft="38dp"
+        android:layout_toRightOf="@+id/selecter_key1"
+        android:src="@drawable/keyhole1" />
+
+    <ImageButton
+        android:id="@+id/selecter_key3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:layout_above="@+id/selecter_key1"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/keyhole1" />
+
+    <ImageButton
+        android:id="@+id/selecter_key5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="fitXY"
+        android:layout_alignRight="@+id/selecter_key3"
+        android:layout_alignTop="@+id/selecter_key1"
+        android:layout_marginRight="19dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/keyhole1" />
+     <ImageView
+        android:id="@+id/door"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        />
+    <ImageView
+        android:id="@+id/door2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        />
+
+</RelativeLayout>

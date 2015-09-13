@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlshKy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Unlocked Key</string>
+    <string name="startButton">Game Start</string>
+    <string name="keyholes">keyholes</string>
+    <string name="key_hole">key_hole</string>
+    <string name="selectkeys">selectkeys</string>
+    <string name="result">result</string>
+    <array name="mondai_key">
+	        <item>@drawable/flashkey00</item>
+	        <item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+        	<!--<item>@drawable/flash_key_waku_01</item>
+        	<item>@drawable/flash_key_waku_02</item>
+        	<item>@drawable/flash_key_waku_03</item>
+        	<item>@drawable/flash_key_waku_04</item>
+        	<item>@drawable/flash_key_waku_05</item>
+        	<item>@drawable/flash_key_waku_06</item>
+        	<item>@drawable/flash_key_waku_07</item>
+        	<item>@drawable/flash_key_waku_08</item>
+        	<item>@drawable/flash_key_waku_09</item>
+        	<item>@drawable/flash_key_waku_10</item>
+        	<item>@drawable/flash_key_waku_11</item>
+        	<item>@drawable/flash_key_waku_12</item>
+        	<item>@drawable/flash_key_waku_13</item>
+        	<item>@drawable/flash_key_waku_14</item>
+        	<item>@drawable/flash_key_waku_15</item>
+        	<item>@drawable/flash_key_waku_16</item>
+        	<item>@drawable/flash_key_waku_17</item>
+        	<item>@drawable/flash_key_waku_18</item>
+        	<item>@drawable/flash_key_waku_19</item>
+        	<item>@drawable/flash_key_waku_20</item>
+        	<item>@drawable/flash_key_waku_21</item>-->
+    </array>
+    <array name="selecter_key1">
+        <item>@drawable/flashkey00</item>
+        	<item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+    </array>
+    <array name="selecter_key2">
+        <item>@drawable/flashkey00</item>
+        	<item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+    </array>
+    <array name="selecter_key3">
+        <item>@drawable/flashkey00</item>
+        	<item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+    </array>
+    <array name="selecter_key4">
+        <item>@drawable/flashkey00</item>
+        	<item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+    </array>
+    <array name="selecter_key5">
+        <item>@drawable/flashkey00</item>
+        	<item>@drawable/flashkey01</item>
+        	<item>@drawable/flashkey02</item>
+        	<item>@drawable/flashkey03</item>
+        	<item>@drawable/flashkey04</item>
+        	<item>@drawable/flashkey05</item>
+        	<item>@drawable/flashkey06</item>
+        	<item>@drawable/flashkey07</item>
+        	<item>@drawable/flashkey08</item>
+        	<item>@drawable/flashkey09</item>
+        	<item>@drawable/flashkey10</item>
+        	<item>@drawable/flashkey11</item>
+        	<item>@drawable/flashkey12</item>
+        	<item>@drawable/flashkey13</item>
+        	<item>@drawable/flashkey14</item>
+        	<item>@drawable/flashkey15</item>
+        	<item>@drawable/flashkey16</item>
+        	<item>@drawable/flashkey17</item>
+        	<item>@drawable/flashkey18</item>
+        	<item>@drawable/flashkey19</item>
+        	<item>@drawable/flashkey20</item>
+    </array>
+        <string name="finish">FINISH</string>
+        <string name="default_score">0</string>
+        <string name="score_label">SCORE</string>
+    
+</resources>
